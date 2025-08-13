@@ -100,8 +100,10 @@ src/
 
 ## 📸 Screenshot
 
-<img width="1919" height="982" alt="Screenshot 2025-08-13 223117" src="https://github.com/user-attachments/assets/c863b990-f5da-46d4-b9a5-a6be69fd9e01" />
+<img width="1919" height="977" alt="Screenshot 2025-08-13 223848" src="https://github.com/user-attachments/assets/b6e0b1f3-87a9-4ec2-9db1-547b987cdc47" />
 <img width="1919" height="977" alt="Screenshot 2025-08-13 223802" src="https://github.com/user-attachments/assets/63343b2c-90e9-462a-b5a9-f0fdd8325039" />
+<img width="1919" height="982" alt="Screenshot 2025-08-13 223117" src="https://github.com/user-attachments/assets/c863b990-f5da-46d4-b9a5-a6be69fd9e01" />
+
 
 
 ---
